@@ -1,5 +1,9 @@
 Hot Topic
-1. i got my first job
+
 2. ini adalah branch test 1
+
+3. ini adalah branch test 2 atau gabungin 2 branch ke master
+
 3. yey bisa bikin branch baru
-4. apa ya ?
+
+
