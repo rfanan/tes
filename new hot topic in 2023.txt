@@ -1,5 +1,9 @@
 Hot Topic
 
 2. ini adalah branch test 1
+
 3. ini adalah branch test 2 atau gabungin 2 branch ke master
-4. ya begitu
+
+3. yey bisa bikin branch baru
+
+
