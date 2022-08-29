@@ -1,2 +1,5 @@
 # Plan Learn Git and Github
-ini adalah tes branch, pull and marge
+commit
+tes branch, pull and marge
+fork/forking
+install git 
